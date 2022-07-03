@@ -1,0 +1,22 @@
+{
+  "name": "investingguy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Santhusha-bit/InvestingGuy.git"
+  },
+  "keywords": [
+    "Investing"
+  ],
+  "author": "SJM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santhusha-bit/InvestingGuy/issues"
+  },
+  "homepage": "https://github.com/Santhusha-bit/InvestingGuy#readme"
+}
